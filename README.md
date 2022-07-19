@@ -1,3 +1,3 @@
 # VirtualReality
 
-A Random HTMLL & CSS Design for Virtual Reality!
+A Random HTML & CSS Design for Virtual Reality!
